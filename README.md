@@ -22,4 +22,4 @@ en esta parte se describe la funcionalidad del proyecto descrito en pasos.
 ### Descipccion:
 explicacion de diagrama de flujo
 
-![Diagrama de flujo problema SCOREKEEPER](assets/img/Diagrama en blanco.png)
+![Diagrama de flujo problema SCOREKEEPER](assets/img/DiagramaEnBlanco.png)
